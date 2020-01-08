@@ -1,2 +1,2 @@
-### Polygon triangulation using ear clipping/ cutting method
+### Polygon triangulation using ear clipping/cutting method
  
