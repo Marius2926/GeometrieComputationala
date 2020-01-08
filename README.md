@@ -1,2 +1,2 @@
-# GeometrieComputationala
- Proiect GC
+### Polygon triangulation using ear clipping/ cutting method
+ 
